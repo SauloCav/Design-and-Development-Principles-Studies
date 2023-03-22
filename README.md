@@ -50,3 +50,10 @@ It also says that both the Class and the interface should not know how the tool 
 
 #### Goal
 This principle aims at reducing the dependency of a high-level Class on the low-level Class by introducing an interface.
+
+
+## Design-Patterns
+
+Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
+
+
