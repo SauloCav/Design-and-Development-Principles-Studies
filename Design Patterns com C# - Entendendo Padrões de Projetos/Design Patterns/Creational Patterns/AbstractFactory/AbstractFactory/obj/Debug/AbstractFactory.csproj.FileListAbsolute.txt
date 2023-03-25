@@ -1,0 +1,7 @@
+D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\htdocs\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
